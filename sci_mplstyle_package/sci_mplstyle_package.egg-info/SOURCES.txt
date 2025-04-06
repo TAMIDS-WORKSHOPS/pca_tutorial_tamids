@@ -1,0 +1,9 @@
+README.md
+setup.py
+sci_mplstyle_package/__init__.py
+sci_mplstyle_package.egg-info/PKG-INFO
+sci_mplstyle_package.egg-info/SOURCES.txt
+sci_mplstyle_package.egg-info/dependency_links.txt
+sci_mplstyle_package.egg-info/requires.txt
+sci_mplstyle_package.egg-info/top_level.txt
+sci_mplstyle_package/style_files/publication.mplstyle
