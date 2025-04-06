@@ -37,7 +37,7 @@ axes.ymargin : 0.05  # 1% margin on the y-axis
 
 
 ## Default: color-blind and photocopy friendly but only three-lines
-axes.prop_cycle : cycler('color', ['e66101','5e3c99','fdb863'])
+# axes.prop_cycle : cycler('color', ['e66101','5e3c99','fdb863'])
 
 ## Only Scatter plot
 # axes.prop_cycle : (cycler('marker', ['o', 's', '^', 'v', '<', '>', 'd']) +  cycler('ls', [' ', ' ', ' ', ' ', ' ', ' ', ' ']))
