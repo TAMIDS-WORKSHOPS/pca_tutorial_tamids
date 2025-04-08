@@ -1,4 +1,4 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.4
 Name: sci_mplstyle_package
 Version: 0.1
 Summary: A package for custom matplotlib styles
@@ -6,3 +6,8 @@ Home-page: https://github.com/suparnob100/sci_mplstyle_package
 Author: Suparno Bhattacharyya
 Author-email: suparno.pa@gmail.com
 Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary
