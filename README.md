@@ -7,8 +7,8 @@ Check out the jupyter notebook.
 
 ### Case studies with visual explanation
 
-[Watch Spring Mass Oscillation 3D](https://youtu.be/_ztxRq3CGzY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_ztxRq3CGzY" frameborder="0" allowfullscreen></iframe>
 
-[Watch Media](https://youtu.be/7zGtOO2HDO0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7zGtOO2HDO0" frameborder="0" allowfullscreen></iframe>
 
 ![alt text](media_files/image.png)
