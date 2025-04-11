@@ -7,6 +7,8 @@ Check out the jupyter notebook.
 
 ### Case studies with visual explanation
 
-<video controls src="SpringMassOscillation3D.mp4" title="Title"></video>
-<video controls src="Media1-1.mp4" title="Title"></video>
+[Watch Spring Mass Oscillation 3D](https://youtu.be/_ztxRq3CGzY)
+
+[Watch Media](https://youtu.be/7zGtOO2HDO0)
+
 ![alt text](media_files/image.png)
